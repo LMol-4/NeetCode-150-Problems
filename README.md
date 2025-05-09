@@ -10,4 +10,4 @@ It is is designed to build strong problem-solving skills and prepare for technic
 - I have tried to comment the code as I go, and you will sometimes see my different iterations of improvement.
 
 ## Links:
-- [NeetCode 150 List](https://neetcode.io/practice)
+- [NeetCode 150 List](https://neetcode.io/roadmap)
